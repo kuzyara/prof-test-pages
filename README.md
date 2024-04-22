@@ -6,5 +6,6 @@
 * https://tavalik.ru/reshenie-vsex-voprosov-testa-1sprofessional-po-texnologicheskim-voprosam-razdel-5/
 * https://pbazeliuk.com/2017/06/12/1c-expert-11-1-11-29/
 * Настольная книга 1С.Эксперта по технологическим вопросам
+* [ИТС: Технологические вопросы крупных внедрений](https://its.1c.ru/db/v838doc/bookmark/dev/TI000000876)
 
 (c) agatgroup
