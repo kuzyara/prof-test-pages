@@ -9,6 +9,6 @@
 * https://pbazeliuk.com/2017/06/12/1c-expert-11-1-11-29/
 * Настольная книга 1С.Эксперта по технологическим вопросам
 * [ИТС: Технологические вопросы крупных внедрений](https://its.1c.ru/db/v838doc/bookmark/dev/TI000000876)
-* [http://mikescherbakov.ru/reshenie-bileta-1-attestatsiya-1s-ekspert-po-tehnologicheskim-voprosam/](https://mikescherbakov.ru/reshenie-bileta-1-attestatsiya-1s-ekspert-po-tehnologicheskim-voprosam/) (для 8.2, устаревший пример)
+* [http://mikescherbakov.ru/reshenie-bileta-1-attestatsiya-1s-ekspert-po-tehnologicheskim-voprosam/](https://mikescherbakov.ru/reshenie-bileta-1-attestatsiya-1s-ekspert-po-tehnologicheskim-voprosam/) (для 8.2, уже устарело)
 
 (c) agatgroup
