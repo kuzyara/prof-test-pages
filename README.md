@@ -1,6 +1,6 @@
 # prof-test-pages
 
-[Профессионал по технологическим вопросам](https://kuzyara.github.io/prof-test-pages/Профессионал%20по%20технологическим%20вопросам%20-%20Тестирование.html) (c) agatgroup
+[Профессионал по технологическим вопросам](https://kuzyara.github.io/prof-test-pages/Профессионал%20по%20технологическим%20вопросам%20-%20Тестирование.html) (c) [agatgroup](https://web.archive.org/web/20220911064122/https://scripts.agatgroup.com/testing.html)
 
 Ресурсы для подготовки:
 * https://free.edu.1c.ru/ (1С: Учебное тестирование)
